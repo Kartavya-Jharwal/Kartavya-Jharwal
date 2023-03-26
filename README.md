@@ -1,4 +1,4 @@
-# <p align='center'>🧑🏽‍💻 Kartavya Jharwal 😎</p>
+<h1 align='center'>🧑🏽‍💻 Kartavya Jharwal 😎</h1>
 
 **<p align='center'>`Ambitious Polymath [Developer|Artist|Student]`</p>**
 <p align="center">
@@ -8,30 +8,26 @@ Hey there! I'm an aspiring tech enthusiast, currently studying in Grade 12 in a 
 <br>
 
 ---  
-      
-<br>
-   <h2 align='center'>💻Social Networks💻</h2>
 
-<br> 
+<h1 align='center'>💻Social Networks💻</h1>
 
-   [![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![Telegram][3.2]][3]
+[![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![Telegram][3.2]][3]
 
-   [1.2]: https://s4.uupload.ir/files/twitter_prkb.png
-   [2.2]: https://s4.uupload.ir/files/linkedin_amwn.png
-   [3.2]: https://s4.uupload.ir/files/telegram_q47u.png
+[1.2]: https://s4.uupload.ir/files/twitter_prkb.png
+[2.2]: https://s4.uupload.ir/files/linkedin_amwn.png
+[3.2]: https://s4.uupload.ir/files/telegram_q47u.png
 
-   [1]: https://twitter.com/ChillsKj
-   [2]: https://www.linkedin.com/in/kartavya-jharwal%F0%9F%98%8E-bb2a0226b/
-   [3]: https://telegram.me/Kartavya_jharwal
+[1]: https://twitter.com/ChillsKj
+[2]: https://www.linkedin.com/in/kartavya-jharwal%F0%9F%98%8E-bb2a0226b/
+[3]: https://telegram.me/Kartavya_jharwal
 
 <br>  
 
 ---
 <br>  
 
-### <h2 align='center'>🧰 Languages and Tools 🧰</h2> 
+<h1 align='center'>🧰 Languages and Tools 🧰</h1> 
 
-<Br>
 <p align="center">
 <img align="center" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="center" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -45,11 +41,9 @@ Hey there! I'm an aspiring tech enthusiast, currently studying in Grade 12 in a 
 <img align="center" alt="windows" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 <img align="center" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
-<Br>
-
-
-#
-<h2 align='center'>👨‍💻 Kartavya's Coding Journey 👨‍💻</h2>
+      
+      
+<h1 align='center'>👨‍💻 Kartavya's Coding Journey 👨‍💻</h1>
 <details open align="center">
    <summary></summary>
    My journey in coding began when I was in sixth grade, and my fascination with the endless possibilities of technology led me to start learning Python and SQL on my own. Over time, I honed my skills in these languages through various online courses and personal projects, such as developing a weather app, snake game, and scientific calculator. As I progressed through high school, I took on more challenging projects, including collaborating with a team of students to build a lexicographic permutation calculator, interning as an IT head for a budget boutique hotel and website manager for an upcoming astrologer's business.
