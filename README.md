@@ -20,14 +20,10 @@ Hey there! I'm an aspiring tech enthusiast, currently studying in Grade 12 in a 
 [1]: https://twitter.com/ChillsKj
 [2]: https://www.linkedin.com/in/kartavya-jharwal%F0%9F%98%8E-bb2a0226b/
 [3]: https://telegram.me/Kartavya_jharwal
-
 <br>  
-
-
 <br>  
-
 <h1 align='center'>🧰 Languages and Tools 🧰</h1> 
-
+<br>  
 <p align="center">
 <img align="center" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="center" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -40,8 +36,8 @@ Hey there! I'm an aspiring tech enthusiast, currently studying in Grade 12 in a 
 <img align="center" alt="Canva" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
 <img align="center" alt="windows" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 <img align="center" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-
-      
+<br>  
+<br>        
       
 <h1 align='center'>👨‍💻 Kartavya's Coding Journey 👨‍💻</h1>
 <details open align="center">
