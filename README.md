@@ -1,4 +1,4 @@
-<h1 align='center'>🧑🏽‍💻 Kartavya Jharwal 😎</h1>
+<h1 align='center' font-size:40px>🧑🏽‍💻 Kartavya Jharwal 😎</h1>
 
 **<p align='center'>`Ambitious Polymath [Developer|Artist|Student]`</p>**
 <p align="center">
@@ -23,7 +23,7 @@ Hey there! I'm an aspiring tech enthusiast, currently studying in Grade 12 in a 
 
 <br>  
 
----
+
 <br>  
 
 <h1 align='center'>🧰 Languages and Tools 🧰</h1> 
