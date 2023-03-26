@@ -7,8 +7,6 @@ Hey there! I'm an aspiring tech enthusiast, currently studying in Grade 12 in a 
 
 <br>
 
----  
-
 <h1 align='center'>💻Social Networks💻</h1>
 
 [![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![Telegram][3.2]][3]
