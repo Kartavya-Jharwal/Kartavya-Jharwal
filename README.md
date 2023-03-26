@@ -1,4 +1,4 @@
-<h2 align='center' font-size:40px>🧑🏽‍💻 Kartavya Jharwal 😎</h2>
+<h3 align='center' font-size:40px>🧑🏽‍💻 Kartavya Jharwal 😎</h3>
 
 **<p align='center'>`Ambitious Polymath [Developer|Artist|Student]`</p>**
 <p align="center">
