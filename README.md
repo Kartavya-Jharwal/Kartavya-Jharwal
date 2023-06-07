@@ -16,10 +16,8 @@ Hey there! I'm an aspiring tech enthusiast, currently studying in Grade 12 in a 
 [3.2]: https://s4.uupload.ir/files/telegram_q47u.png
 
 [1]: https://twitter.com/ChillsKj
-[2]: https://www.linkedin.com/in/kartavya-jharwal%F0%9F%98%8E-bb2a0226b/
+[2]: https://www.linkedin.com/in/kartavyajharwal
 [3]: https://telegram.me/Kartavya_jharwal
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="kartavya-jharwal-bb2a0226b" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/kartavya-jharwal-bb2a0226b?trk=profile-badge">Kartavya Jharwal</a></div>
 
 ---
 
