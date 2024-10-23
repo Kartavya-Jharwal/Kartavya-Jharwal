@@ -1,7 +1,5 @@
-our current academic and professional journey:
-
-🧑🏽‍💻 Kartavya Jharwal 😎
-Ambitious Polymath [Developer | Designer | Business Student]
+<h1>🧑🏽‍💻 Kartavya Jharwal 😎</h1>
+<h2>Ambitious Polymath [Developer | Designer | Business Student]</h2>
 
 <p> Hey there! I'm currently an undergraduate student at Hult International Business School's London campus, pursuing a BBA degree. With a strong background in coding, design, and business, I'm passionate about leveraging technology to solve complex problems and explore creative solutions. My projects range from AI-driven IoT systems to sleek websites, all built from the ground up with a focus on user experience, functionality, and aesthetic appeal. Proficient in Python, SQL, and various design tools, I enjoy pushing the boundaries of what's possible in both technology and business. </p>
 💻 Social Networks 💻
