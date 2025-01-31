@@ -35,3 +35,9 @@
 </p>
 <br>  
 
+
+   My passion for coding also led me to explore other areas of technology, such as data analysis and machine learning, and I've completed several online courses and certifications to expand my knowledge in these fields.
+
+   Looking forward, I'm excited to continue my coding journey in college and beyond, with a focus on using technology to solve real-world problems and make a positive impact on society. Whether it's developing new applications or improving existing systems, I believe that coding has the power to create meaningful change, and I can't wait to be a part of it.
+</details>
+
