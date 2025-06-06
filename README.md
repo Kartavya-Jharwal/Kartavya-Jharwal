@@ -1,18 +1,13 @@
 <h1>🧑🏽‍💻 Kartavya Jharwal 😎</h1>
 ***`Ambitious Polymath [Developer|Artist|Student]`***
 
-<p> Hey there! I'm currently an undergraduate student at Hult International Business School's London campus, pursuing a BBA degree. With a strong background in coding, design, and business, I'm passionate about leveraging technology to solve complex problems and explore creative solutions. My projects range from AI-driven IoT systems to sleek websites, all built from the ground up with a focus on user experience, functionality, and aesthetic appeal. Proficient in Python, SQL, and various design tools, I enjoy pushing the boundaries of what's possible in both technology and business. </p>
----
+<p> Greetings Traveller! I'm currently an undergraduate student at Hult International Business School's London campus, pursuing a BBA degree. With a strong background in coding, design, and business, I'm passionate about leveraging technology to solve complex problems and explore creative solutions. My projects range from AI-driven IoT systems to sleek websites, all built from the ground up with a focus on user experience, functionality, and aesthetic appeal. Proficient in Python, SQL, and various design tools, I enjoy pushing the boundaries of what's possible in both technology and business. </p>
 
-## 💻Social Networks💻
-      
-   [![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![Telegram][3.2]][3]
+[![LinkedIn][2.2]][2] [![Telegram][3.2]][3]
 
-[1.2]: https://s4.uupload.ir/files/twitter_prkb.png
 [2.2]: https://s4.uupload.ir/files/linkedin_amwn.png
 [3.2]: https://s4.uupload.ir/files/telegram_q47u.png
 
-[1]: https://twitter.com/ChillsKj
 [2]: https://www.linkedin.com/in/kartavyajharwal
 [3]: https://telegram.me/Kartavya_jharwal
 
@@ -35,9 +30,6 @@
 </p>
 <br>  
 
-
-   My passion for coding also led me to explore other areas of technology, such as data analysis and machine learning, and I've completed several online courses and certifications to expand my knowledge in these fields.
-
-   Looking forward, I'm excited to continue my coding journey in college and beyond, with a focus on using technology to solve real-world problems and make a positive impact on society. Whether it's developing new applications or improving existing systems, I believe that coding has the power to create meaningful change, and I can't wait to be a part of it.
+I'm not a dev I'm just good at troubleshooting, understanding the problem and designing the process for the ideal Solution that would last a long time.
 </details>
 
