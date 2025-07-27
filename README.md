@@ -1,16 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hey%20there!%20I'm%20Kartavya%20Jharwal;Problem%20Solver%20%7C%20Tech%20Enthusiast%20%7C%20Business%20Strategist;Building%20the%20future%20one%20solution%20at%20a%20time&font=Fira%20Code&center=true&width=600&height=50&color=36BCF7&vCenter=true&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hey%20there!%20I'm%20Kartavya;The%20Ambitious%20Polymath;Student%7CTech%20Enthusiast%7CStartup%20Strategist;Building%20the%20future%20one%20solution%20at%20a%20time&font=Fira%20Code&center=true&width=600&height=50&color=36BCF7&vCenter=true&size=22" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kartavya-Jharwal&color=36BCF7&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-  <a href="https://github.com/Kartavya-Jharwal"><img src="https://img.shields.io/github/followers/Kartavya-Jharwal?label=Followers&style=flat-square&color=36BCF7" alt="GitHub followers"/></a>
-  <a href="https://github.com/Kartavya-Jharwal"><img src="https://img.shields.io/github/stars/Kartavya-Jharwal?label=Stars&style=flat-square&color=36BCF7" alt="GitHub stars"/></a>
-</p>
+
 
 ## 🚀 About Me
 
-**🎯 Kartavya Jharwal** - *Renaissance Technologist & Strategic Innovator*
+**🎯 Kartavya Jharwal** - *Ambitious Polymath*
 
 📍 **London, UK** 🇬🇧 | **Jaipur, India** 🇮🇳  
 🎓 **Hult International Business School** (Triple-Accredited BBA)
